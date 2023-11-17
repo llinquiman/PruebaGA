@@ -3,7 +3,7 @@ name: Prueba unitaria
 on:
   push:
     branches:
-      - main
+      - dev
 
 jobs:
   test:
